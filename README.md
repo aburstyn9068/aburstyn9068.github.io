@@ -1,4 +1,4 @@
-# <p align="center">From Agile Athletes to Agile Product Management</p>
+# From Agile Athletes to Agile Product Management
 
 Does this sound like a job posting for your current role?:
 -	Cross-Functional Collaboration
@@ -15,7 +15,7 @@ The question is, how is one able to lead product development initiatives with a 
 
 While the following article is not an exhaustive list of the parallels between the two positions, I will highlight how functionally a product manager driving software development and running a strength and conditioning program are quite similar.
 
-![Identical](indentical.jpg)
+![Identical](./indentical.png)
  
 <p align="center"><b>Cross-Functional Collaboration</b></p>
 
