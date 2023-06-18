@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## From Agile Athetes to Agile Product Management
+by Adam Burstyn
 
 https://aburstyn9068.github.io/
 
