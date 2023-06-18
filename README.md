@@ -14,6 +14,8 @@ With a career in strength and conditioning I developed many skill sets, none of 
 The question is, how is one able to lead product development initiatives with a background in athletic coaching? The answer is very simple: There is a major overlap in the skillsets and processes between leading the development of a tech product and running a strength and conditioning program. Without knowing it at the time, I had been leading agile projects for my entire career as a strength coach.
 
 While the following article is not an exhaustive list of the parallels between the two positions, I will highlight how functionally a product manager driving software development and running a strength and conditioning program are quite similar.
+
+![Identical](indentical.jpg)
  
 <p align="center"><b>Cross-Functional Collaboration</b></p>
 
