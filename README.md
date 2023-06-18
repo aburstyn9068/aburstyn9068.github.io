@@ -1,4 +1,4 @@
-# From Agile Athletes to Agile Product Management
+# From Agile Athletes to Agile Product Management<br>by Adam Burstyn
 
 Does this sound like a job posting for your current role?:
 -	Cross-Functional Collaboration
