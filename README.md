@@ -27,7 +27,7 @@ Another stakeholder department that a strength coach will be in frequent communi
 
 <p align="center"><b>Leading Without Authority</b></p>
 
-A major componenet of product management is leading and motivating teams that they do not have direct authority over. This can include engineering, marketing, sales, or design teams. While each of those componenets must work in unison and in-line with the product's vision, they generally have their own management that individual contributors report to for each respective department.
+A major component of product management is leading and motivating teams that they do not have direct authority over. This can include engineering, marketing, sales, or design teams. While each of those componenets must work in unison and in-line with the product's vision, they generally have their own management that individual contributors report to.
 
 A very similar situation arises in strength and conditioning. As a strength coach, you are not the athetles head sport or position coach. The head sport or position coaches are the ones who the athletes directly report to as they dictate the athletes playing time, game strategy, and position depth charts. Although you do not have a direct say in an athletes playing time, it is essential as a strength coach to have full buy-in, respect, and engagement from all the athletes in order to have a successful and effective program.
 
