@@ -25,6 +25,12 @@ Likewise, a strength coach will need to collaborate across multiple departments 
 
 Another stakeholder department that a strength coach will be in frequent communication with is the medical/athletic training staff. As athletes inevitably get banged-up or injured throughout their career, there will be limitations/modifications needed to keep them progressing to keep them on track to perform in their sport at the maximal level while not interfering with the medical treatment of the injury. Training modifications will need to be in line with specifications from the medical staff.
 
+<p align="center"><b>Leading Without Authority</b></p>
+
+A major componenet of product management is leading and motivating teams that they do not have direct authority over. This can include engineering, marketing, sales, or design teams. While each of those componenets must work in unison and in-line with the product's vision, they generally have their own management that individual contributors report to for each respective department.
+
+A very similar situation arises in strength and conditioning. As a strength coach, you are not the athetles head sport or position coach. The head sport or position coaches are the ones who the athletes directly report to as they dictate the athletes playing time, game strategy, and position depth charts. Although you do not have a direct say in an athletes playing time, it is essential as a strength coach to have full buy-in, respect, and engagement from all the athletes in order to have a successful and effective program.
+
 <p align="center"><b>Agile Product Development</b></p>
 
 While there are many different frameworks/methodologies used in software product development (and teams will inevitably blend together various components from different formats to suit their needs), one of the more popular methods is some form of agile development methodology using the scrum framework. While this article is not intended to be a complete overview of the scrum framework or provide formal definitions of the referenced items, I will highlight some of the high-level concepts.
