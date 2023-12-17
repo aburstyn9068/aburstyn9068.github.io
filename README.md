@@ -9,7 +9,7 @@ Does this sound like a job posting for your current role?:
 
 Then you might be a product manager. Or…you could be a strength and conditioning coach.
 
-With a career in strength and conditioning I developed many skill sets, none of which were driving a software product vision to frution. After deciding to end my strength and conditioning career and pivot into the tech sector, I landed a position as data scientist at a startup company. Not long after starting my role, I noticed some areas in the company that had areas that could be improved upon by implementing new software products into the workstreams. I immediately took on the role of implementing my products to aid these areas and improve key performance metrics. The products I spearheaded made a profound impact on the business and changed the way the associated departments operated.
+With a career in strength and conditioning I developed many skill sets, none of which were driving a software product vision to fruition. After deciding to end my strength and conditioning career and pivot into the tech sector, I landed a position as data scientist at a startup company. Not long after starting my role, I noticed some areas in the company that had areas that could be improved upon by implementing new software products into the workstreams. I immediately took on the role of implementing my products to aid these areas and improve key performance metrics. The products I spearheaded made a profound impact on the business and changed the way the associated departments operated.
 
 The question is, how is one able to lead product development initiatives with a background in athletic coaching? The answer is very simple: There is a major overlap in the skillsets and processes between leading the development of a tech product and running a strength and conditioning program. Without knowing it at the time, I had been leading agile projects for my entire career as a strength coach.
 
@@ -27,7 +27,7 @@ Another stakeholder department that a strength coach will be in frequent communi
 
 <p align="center"><b>Leading Without Authority</b></p>
 
-A major component of product management is leading and motivating teams that they do not have direct authority over. This can include engineering, marketing, sales, or design teams. While each of those componenets must work in unison and in-line with the product's vision, they generally have their own management that individual contributors report to.
+A major component of product management is leading and motivating teams that they do not have direct authority over. This can include engineering, marketing, sales, or design teams. While each of those components must work in unison and in-line with the product's vision, they generally have their own management that individual contributors report to.
 
 A very similar situation arises in strength and conditioning. As a strength coach, you are not the athetles head sport or position coach. The head sport or position coaches are the ones who the athletes directly report to as they dictate the athletes playing time, game strategy, and position depth charts. Although you do not have a direct say in an athletes playing time, it is essential as a strength coach to have full buy-in, respect, and engagement from all the athletes in order to have a successful and effective program.
 
